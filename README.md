@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-Eu sou o Paulo Roberto, desenvolvedor com 15 anos de experiência de mercado e já resolvi muitos pepinos em sistemas de diferentes setores!
+Eu sou o Paulo Roberto, desenvolvedor com 17 anos de experiência de mercado e já resolvi muitos pepinos em sistemas de diferentes setores!
 
 <!--
 **prrandrade/prrandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
